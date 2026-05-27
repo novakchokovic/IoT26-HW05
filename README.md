@@ -1,22 +1,8 @@
-# IoT26-HW05 — Getting Started with Home Assistant on Raspberry Pi
+# Getting Started with Home Assistant on Raspberry Pi
 
 > 작업 일시: 2026년 5월 26일 20:00 ~ 5월 27일 07:00
 
----
 
-## 📋 목차
-
-1. [OS 업데이트](#1-os-업데이트)
-2. [Docker 설치](#2-docker-설치)
-3. [현재 사용자를 docker 그룹에 추가](#3-현재-사용자를-docker-그룹에-추가)
-4. [Home Assistant 폴더 생성 후 컨테이너 실행](#4-home-assistant-폴더-생성-후-컨테이너-실행)
-5. [브라우저 접속](#5-브라우저-접속)
-6. [LED 자동화를 위한 HW04 회로 조립하기](#6-led-자동화를-위한-hw04-회로-조립하기)
-7. [Flask 설치하기](#7-flask-설치하기)
-8. [서버 파일 만들고 실행](#8-서버-파일-만들고-실행)
-9. [Home Assistant 설정](#9-home-assistant-설정)
-10. [자동화 시스템 만들기](#10-자동화-시스템-만들기)
-11. [실행 결과](#11-실행-결과)
 
 ---
 
