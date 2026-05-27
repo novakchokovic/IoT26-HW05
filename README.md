@@ -12,7 +12,7 @@
 sudo apt update && sudo apt upgrade -y
 ```
 
-![OS 업데이트 하는 모습](images2/KakaoTalk_20260527_132421746.jpg)
+![OS 업데이트 하는 모습](imagez/KakaoTalk_20260527_132421746.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ curl -fsSL https://get.docker.com | sh
 docker --version
 ```
 
-![Docker 설치 확인 모습](images2/KakaoTalk_20260527_132458824.jpg)
+![Docker 설치 확인 모습](imagez/KakaoTalk_20260527_132458824.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ sudo reboot
 docker run hello-world
 ```
 
-![docker run hello-world 실행 모습](images2/KakaoTalk_20260527_132531382.jpg)
+![docker run hello-world 실행 모습](imagez/KakaoTalk_20260527_132531382.jpg)
 
 ---
 
@@ -81,7 +81,7 @@ docker ps
 - `hostname -I` 명령어로 IP 주소 확인: `172.30.1.54`
 - 브라우저에서 접속: `http://172.30.1.54:8123`
 
-![브라우저 접속한 모습](images2/KakaoTalk_20260527_123648211.jpg)
+![브라우저 접속한 모습](imagez/KakaoTalk_20260527_123648211.jpg)
 
 ---
 
@@ -96,9 +96,9 @@ HW04에서 사용한 회로를 그대로 조립하였습니다.
 처음에는 파이썬 파일을 만들어 GPIO를 제어하려 했으나 에러가 발생하였습니다.
 Docker 안에서는 GPIO 핀 접근 권한이 제한된다는 것을 알게 되어 Flask 방식으로 전환하였습니다.
 
-![nano led_on.py 코드](images2/KakaoTalk_20260527_125642079.jpg)
+![nano led_on.py 코드](imagez/KakaoTalk_20260527_125642079.jpg)
 
-![nano led_off.py 코드](images2/KakaoTalk_20260527_125652611.jpg)
+![nano led_off.py 코드](imagez/KakaoTalk_20260527_125652611.jpg)
 
 ![계속된 오류들](images/KakaoTalk_20260527_133657266.jpg)
 
